@@ -2,7 +2,7 @@
 
 **Data:** 23 de Outubro de 2026  
 **Status:** Validado e Reproduzível (N0 a N10 Aprovados)  
-**Projeto:** [NeverDead PC Native Port](https://github.com/mateussmeneses/neverdead-port)  
+**Projeto:** [NeverDead PC Native Port](https://github.com/saxons-kicks/neverdead-port)  
 **Binário Validado:** `build/n2-neverdead/neverdead.exe`  
 **Host de Teste:** Windows 11 x64 | NVIDIA GeForce RTX 5060 Laptop GPU | DualSense Wireless Controller  
 

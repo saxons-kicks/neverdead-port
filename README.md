@@ -94,7 +94,7 @@ Windows. Managed devices may restrict script execution.
 
 1. Clone this repository:
    ```powershell
-   git clone https://github.com/mateussmeneses/neverdead-port.git
+   git clone https://github.com/saxons-kicks/neverdead-port.git
    cd neverdead-port
    ```
 

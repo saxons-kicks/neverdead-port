@@ -23,7 +23,7 @@ Ensure the following tools are installed on Windows 10/11 x64:
 
 Clone the project repository:
 ```powershell
-git clone https://github.com/mateussmeneses/neverdead-port.git C:\projetos\neverdead
+git clone https://github.com/saxons-kicks/neverdead-port.git C:\projetos\neverdead
 cd C:\projetos\neverdead
 ```
 
