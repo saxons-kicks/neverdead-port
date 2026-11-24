@@ -2,7 +2,7 @@
 
 **Data de Validação:** 23 de Outubro de 2026  
 **Status do Marco N13:** **CONCLUÍDO (PASS)**  
-**Projeto:** [mateussmeneses/neverdead-port](https://github.com/mateussmeneses/neverdead-port)  
+**Projeto:** [saxons-kicks/neverdead-port](https://github.com/saxons-kicks/neverdead-port)  
 **Ambiente:** Windows 11 x64, Direct3D 12 (Feature Level 12_1 Tier 3), LLVM/Clang 19.1.7 (C++23), ReXGlue SDK v0.10.0, NVIDIA GeForce RTX 5060 Laptop GPU.
 
 ---
